@@ -4,7 +4,7 @@
 
 # Grohong 🇰🇷
 
-[![Linkedin Badge](https://img.shields.io/badge/-won-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%ED%98%B8-%ED%99%8D-02706a1aa/)](https://www.linkedin.com/in/%EC%84%B1%ED%98%B8-%ED%99%8D-02706a1aa/)
+[![Linkedin Badge](https://img.shields.io/badge/-Hong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%ED%98%B8-%ED%99%8D-02706a1aa/)](https://www.linkedin.com/in/%EC%84%B1%ED%98%B8-%ED%99%8D-02706a1aa/)
 
 ### Hi there 👋
 ##### I'm Hong, a iOS App developer.
