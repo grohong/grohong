@@ -1,16 +1,15 @@
-### Hi there 👋
-
 <!--
 **grohong/grohong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Grohong 🇰🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+### Hi there 👋
+##### I'm Hong, a iOS App developer.
+
+- 🔭 I’m currently working on Swift apps.
+- 🌱 I’m currently learning convert UIKit, RxSwift, RxCocoa to SwiftUI, Combine.
+- 📫 How to reach me: grohong76@gmail.cpm
+- ⚡ Fun fact: Many Games🎮, ex, lol, over watch
 -->
