@@ -1,5 +1,6 @@
 <!--
 **grohong/grohong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 # Grohong 🇰🇷
 
@@ -12,4 +13,5 @@
 - 🌱 I’m currently learning convert UIKit, RxSwift, RxCocoa to SwiftUI, Combine.
 - 📫 How to reach me: grohong76@gmail.cpm
 - ⚡ Fun fact: Many Games🎮, ex, lol, over watch
--->
+
+[![grobong's github stats](https://github-readme-stats.vercel.app/api?username=grobong)](https://github.com/grobong/github-readme-stats)
