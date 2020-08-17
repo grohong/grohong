@@ -4,7 +4,7 @@
 
 # Grohong 🇰🇷
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+[![Linkedin Badge](https://img.shields.io/badge/-won-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%B1%ED%98%B8-%ED%99%8D-02706a1aa/)](https://www.linkedin.com/in/%EC%84%B1%ED%98%B8-%ED%99%8D-02706a1aa/)
 
 ### Hi there 👋
 ##### I'm Hong, a iOS App developer.
@@ -14,4 +14,4 @@
 - 📫 How to reach me: grohong76@gmail.cpm
 - ⚡ Fun fact: Many Games🎮, ex, lol, over watch
 
-[![grobong's github stats](https://github-readme-stats.vercel.app/api?username=grobong)](https://github.com/grobong/github-readme-stats)
+[![grohong's github stats](https://github-readme-stats.vercel.app/api?username=grohong)](https://github.com/grohong/github-readme-stats)
